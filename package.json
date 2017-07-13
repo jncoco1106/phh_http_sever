@@ -1,0 +1,19 @@
+{
+  "name": "phh_http_sever",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jncoco1106/phh_http_sever.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jncoco1106/phh_http_sever/issues"
+  },
+  "homepage": "https://github.com/jncoco1106/phh_http_sever#readme"
+}
